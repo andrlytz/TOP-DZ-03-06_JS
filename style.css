@@ -1,0 +1,47 @@
+section {
+    width: 800px;
+    border: 2px solid;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.one {
+    display: flex;
+    flex-direction: column;
+    width: 390px;
+    align-items: center;
+    justify-content: center;
+}
+
+#border {
+    border-right: 2px solid;
+} 
+
+label {
+    margin: 10px auto;
+    width: 270px;
+    display: flex;
+    justify-content: space-between;
+}
+
+td {
+    width: 50px;
+}
+
+button {
+    height: 50px;
+}
+
+.tb {
+    margin: 100px auto;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#but01 {
+    margin-top: 50px;
+}
